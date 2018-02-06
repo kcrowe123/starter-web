@@ -30,4 +30,4 @@ review.
 
 ### Copyright
 
-Git.training
+Git.training.  All rights reserved
